@@ -63,6 +63,8 @@ abstract class persona {
     
     
     protected void agregar (){}
+    protected void actualizar (){}
+    protected void eliminar (){}
     
     
 }
